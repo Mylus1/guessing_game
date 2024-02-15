@@ -1,6 +1,6 @@
 # Rust Guessing Game
 
-Guessing gmae project from Rust documentation
+Guessing game project from Rust documentation
 
 ## Setup
 
